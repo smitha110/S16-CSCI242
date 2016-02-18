@@ -22,8 +22,18 @@ class Student {
 	*/
 	public function getName()
 	{
-		return $this->name;
+		//return $this->name;
+		return self::$name;
 	}
+	
+	/*
+	EXPLANATION:
+	The variable self is a static variable which means
+	it only exists once in memory. Therefore, you cannot
+	reference the object. You must reference the class in
+	which the variable was instantiated since only that class
+	knows in memory where the static variable is stored.
+	*/
 
 	/*
 	* Accepts: string with name of the student
@@ -32,7 +42,8 @@ class Student {
 	*/
 	public function setName($name)
 	{
-		$this->name = $name;
+		//$this->name = $name;
+		self::$name = $name;
 	}
 
 }
