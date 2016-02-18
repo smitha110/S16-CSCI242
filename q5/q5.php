@@ -12,6 +12,11 @@ echo $regularProgrammer->getGreeting();
 * had everything the regular Programmer had...
 * just cooler...
 */
+$coolProgrammer = new Programmer();
+//echo $coolProgrammer->getGreeting("Hey dude!");
+//$coolProgrammer->getGreeting("Hey dude!");
+//echo $coolProgrammer->override_function('getGreeting',"","return 'Hey dude!'");
+echo $coolProgrammer->override_function('getGreeting',"return 'Hey dude!'");
 
 
 /* END ANSWER SECTION */
