@@ -1,0 +1,25 @@
+6)
+a.Encapsulation: Encapsulation refers to the ability to lock down, or
+restrict, a class from the outside. This is done by making properties,
+classes, or methods private, public, or protected. Protected only
+allows children of the class to use that particular property, class,
+or method. Private means only that class, property, or method can use
+it. Public means anyone can use it anywhere.
+
+b.Inheritance: Inheritance means that child classes can take on/use
+properties or methods of their parent class. Child classes can use
+single or multiple inheritance (from one parent or from multiple
+parents). 
+
+c. Interfaces: Interfaces define explicitly what must be in a class.
+If an interface is used, all classes using that interface must 
+impliment the properties and methods listed in the particular interface.
+Interfaces cannot be instantiated using the keyword new. Also, you cannot
+write any code in an interface since that is the job of the classes
+that use that interface.
+
+d) Polymorphism: Polymorphism refers to the ability for classes to 
+take on different characteristics. Classes may have the same method,
+but each method isn't the same. Also, child classes can override
+the behavior of their parents. This allows child classes to take on
+different behaviors and characteristics.
