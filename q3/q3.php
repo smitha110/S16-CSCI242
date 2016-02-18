@@ -1,4 +1,5 @@
 <?php
+error_reporting(E_ALL);
 //DON'T EDIT THIS FILE!
 
 require_once("Student.php");
