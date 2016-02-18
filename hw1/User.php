@@ -3,11 +3,11 @@
 
 class User {
     protected $username = "";
-    protected $profile = Profile;
+    protected $profile = null;
     
     public function __construct()   //Create contructor
     {
-        
+
     }
     
     public function getUsername()   //get the username for the current object

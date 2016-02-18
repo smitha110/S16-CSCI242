@@ -1,6 +1,6 @@
 <?php
 
-class Profile extends User {
+class Profile {
     protected $firstName = "";
     protected $lastName = "";
     protected $emailAddress = "";

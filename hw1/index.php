@@ -8,31 +8,38 @@
         require("User.php");
         require("Profile.php");
         
-        $user1 = new Profile();
+        $user1 = new User();
+        $profile1 = new Profile();
         
+        $user1->setProfile($profile1);
+        
+        $profile1->setFirstName("Andrew");
+        $profile1->setLastName("Besmer");
+        $profile1->setEmailAddress("besmera@winthrop.edu");
         $user1->setUsername("besmera");
-        $user1->setFirstName("Andrew");
-        $user1->setLastName("Besmer");
-        $user1->setEmailAddress("besmera@winthrop.edu");
         
-        $user2 = new Profile();
+        $user2 = new User();
+        $profile2 = new Profile();
         
+        $user2->setProfile($profile2);
+        
+        $profile2->setFirstName("Gerry");
+        $profile2->setLastName("Derksen");
+        $profile2->setEmailAddress("derkseng@winthrop.edu");
         $user2->setUsername("derkseng");
-        $user2->setFirstName("Gerry");
-        $user2->setLastName("Derksen");
-        $user2->setEmailAddress("derkseng@winthrop.edu");
         
-        $usersArray = array($user1, $user2);
+        $profileArray = array($profile1, $profile2);
         
         echo "<h1>Professors</h1>";
-        foreach($usersArray as $user)
+        
+        foreach($profileArray as $profile)
         {
-            echo "<h2>" . $user->getFirstName() . " " . $user->getLastName() . "</h2>";
+            echo "<h2>" . $profile->getFirstName() . " " . $profile->getLastName() . "</h2>";
             echo "<ul>";
-            echo "<li>". "<strong>First:</strong> " .$user->getFirstName()."</li>";
-            echo "<li>". "<strong>Last:</strong> ".$user->getLastName()."</li>";
-            echo "<li>". "<strong>Email:</strong> ".$user->getEmailAddress()."</li>";
-            echo "</ul>";
+            echo "<li>". "<strong>First:</strong> " .$profile->getFirstName()."</li>";
+            echo "<li>". "<strong>Last:</strong> ".$profile->getLastName()."</li>";
+            echo "<li>". "<strong>Email:</strong> ".$profile->getEmailAddress()."</li>";
+            echo "</ul>";           
         }
        ?> 
     </body>
