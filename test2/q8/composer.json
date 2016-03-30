@@ -1,0 +1,8 @@
+{
+  "autoload" : {
+    "psr-4" : {"Smith\\" : "src/Smith"}
+  },
+  "require": {
+    "martindilling/sunny": "0.*"
+  }  
+}

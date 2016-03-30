@@ -1,0 +1,188 @@
+[29-Mar-2016 15:06:43 UTC] PHP Fatal error:  Class 'Faculty' not found in /home/ubuntu/workspace/S16-CSCI242/test2/q1/useFaculty.php on line 4
+[29-Mar-2016 15:06:44 UTC] PHP Stack trace:
+[29-Mar-2016 15:06:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q1/useFaculty.php:0
+[29-Mar-2016 15:08:09 UTC] PHP Fatal error:  Cannot declare class WinthropUniversity\Wingspan\Entity\Faculty because the name is already in use in /home/ubuntu/workspace/S16-CSCI242/test2/q1/Faculty.php on line 7
+[29-Mar-2016 15:08:09 UTC] PHP Stack trace:
+[29-Mar-2016 15:08:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q1/useFaculty.php:0
+[29-Mar-2016 15:12:08 UTC] PHP Fatal error:  Class 'Faculty' not found in /home/ubuntu/workspace/S16-CSCI242/test2/q1/useFaculty.php on line 4
+[29-Mar-2016 15:12:08 UTC] PHP Stack trace:
+[29-Mar-2016 15:12:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q1/useFaculty.php:0
+[29-Mar-2016 15:12:37 UTC] PHP Warning:  The use statement with non-compound name 'Faculty' has no effect in /home/ubuntu/workspace/S16-CSCI242/test2/q1/useFaculty.php on line 4
+[29-Mar-2016 15:12:39 UTC] PHP Fatal error:  Class 'Faculty' not found in /home/ubuntu/workspace/S16-CSCI242/test2/q1/useFaculty.php on line 6
+[29-Mar-2016 15:12:39 UTC] PHP Stack trace:
+[29-Mar-2016 15:12:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q1/useFaculty.php:0
+[29-Mar-2016 15:13:15 UTC] PHP Fatal error:  Class 'Faculty' not found in /home/ubuntu/workspace/S16-CSCI242/test2/q1/useFaculty.php on line 6
+[29-Mar-2016 15:13:15 UTC] PHP Stack trace:
+[29-Mar-2016 15:13:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q1/useFaculty.php:0
+[29-Mar-2016 15:15:02 UTC] PHP Fatal error:  Class 'Faculty' not found in /home/ubuntu/workspace/S16-CSCI242/test2/q1/useFaculty.php on line 6
+[29-Mar-2016 15:15:02 UTC] PHP Stack trace:
+[29-Mar-2016 15:15:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q1/useFaculty.php:0
+[29-Mar-2016 15:15:05 UTC] PHP Fatal error:  Class 'Faculty' not found in /home/ubuntu/workspace/S16-CSCI242/test2/q1/useFaculty.php on line 6
+[29-Mar-2016 15:15:05 UTC] PHP Stack trace:
+[29-Mar-2016 15:15:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q1/useFaculty.php:0
+[29-Mar-2016 15:15:10 UTC] PHP Fatal error:  Class 'Faculty' not found in /home/ubuntu/workspace/S16-CSCI242/test2/q1/useFaculty.php on line 6
+[29-Mar-2016 15:15:10 UTC] PHP Stack trace:
+[29-Mar-2016 15:15:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q1/useFaculty.php:0
+[29-Mar-2016 15:44:25 UTC] PHP Catchable fatal error:  Argument 1 passed to Cabbie::navigate() must be an instance of drive, instance of Chevy given, called in /home/ubuntu/workspace/S16-CSCI242/test2/q3/cabbie.php on line 25 and defined in /home/ubuntu/workspace/S16-CSCI242/test2/q3/cabbie.php on line 18
+[29-Mar-2016 15:44:25 UTC] PHP Stack trace:
+[29-Mar-2016 15:44:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q3/cabbie.php:0
+[29-Mar-2016 15:44:25 UTC] PHP   2. Cabbie::navigate($car = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/test2/q3/cabbie.php:25
+[29-Mar-2016 16:53:27 UTC] PHP Catchable fatal error:  Argument 1 passed to Cabbie::navigate() must implement interface Drivable, instance of Boat given, called in /home/ubuntu/workspace/S16-CSCI242/test2/q3/cabbie.php on line 29 and defined in /home/ubuntu/workspace/S16-CSCI242/test2/q3/cabbie.php on line 18
+[29-Mar-2016 16:53:27 UTC] PHP Stack trace:
+[29-Mar-2016 16:53:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q3/cabbie.php:0
+[29-Mar-2016 16:53:27 UTC] PHP   2. Cabbie::navigate() /home/ubuntu/workspace/S16-CSCI242/test2/q3/cabbie.php:29
+[29-Mar-2016 16:55:06 UTC] PHP Catchable fatal error:  Argument 1 passed to Cabbie::navigate() must implement interface Drivable, instance of Boat given, called in /home/ubuntu/workspace/S16-CSCI242/test2/q3/cabbie.php on line 32 and defined in /home/ubuntu/workspace/S16-CSCI242/test2/q3/cabbie.php on line 18
+[29-Mar-2016 16:55:06 UTC] PHP Stack trace:
+[29-Mar-2016 16:55:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q3/cabbie.php:0
+[29-Mar-2016 16:55:06 UTC] PHP   2. Cabbie::navigate() /home/ubuntu/workspace/S16-CSCI242/test2/q3/cabbie.php:32
+[29-Mar-2016 17:41:27 UTC] PHP Fatal error:  Class 'Faculty' not found in /home/ubuntu/workspace/S16-CSCI242/test2/q6/useFaculty.php on line 5
+[29-Mar-2016 17:41:27 UTC] PHP Stack trace:
+[29-Mar-2016 17:41:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q6/useFaculty.php:0
+[29-Mar-2016 18:31:22 UTC] PHP Catchable fatal error:  Argument 2 passed to Twig_Environment::render() must be of the type array, object given, called in /home/ubuntu/workspace/S16-CSCI242/test2/q7/index.php on line 21 and defined in /home/ubuntu/workspace/S16-CSCI242/test2/q7/Twig/Environment.php on line 290
+[29-Mar-2016 18:31:22 UTC] PHP Stack trace:
+[29-Mar-2016 18:31:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q7/index.php:0
+[29-Mar-2016 18:31:22 UTC] PHP   2. Twig_Environment->render() /home/ubuntu/workspace/S16-CSCI242/test2/q7/index.php:21
+[29-Mar-2016 19:41:21 UTC] PHP Fatal error:  Class 'Wsc' not found in /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php on line 5
+[29-Mar-2016 19:41:21 UTC] PHP Stack trace:
+[29-Mar-2016 19:41:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php:0
+[29-Mar-2016 19:42:47 UTC] PHP Warning:  The use statement with non-compound name 'todstoychev' has no effect in /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php on line 5
+[29-Mar-2016 19:42:47 UTC] PHP Parse error:  syntax error, unexpected '/', expecting ',' or ';' in /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php on line 5
+[29-Mar-2016 19:43:50 UTC] PHP Fatal error:  Class 'Todstoychev\Wsc' not found in /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php on line 7
+[29-Mar-2016 19:43:50 UTC] PHP Stack trace:
+[29-Mar-2016 19:43:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php:0
+[29-Mar-2016 19:44:44 UTC] PHP Fatal error:  Class 'Todstoychev\Wsc' not found in /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php on line 7
+[29-Mar-2016 19:44:44 UTC] PHP Stack trace:
+[29-Mar-2016 19:44:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php:0
+[29-Mar-2016 19:45:11 UTC] PHP Fatal error:  Class 'Todstoychev\Wsc' not found in /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php on line 7
+[29-Mar-2016 19:45:11 UTC] PHP Stack trace:
+[29-Mar-2016 19:45:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php:0
+[29-Mar-2016 19:45:36 UTC] PHP Fatal error:  Class 'Todstoychev\websafe' not found in /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php on line 7
+[29-Mar-2016 19:45:36 UTC] PHP Stack trace:
+[29-Mar-2016 19:45:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php:0
+[29-Mar-2016 19:46:34 UTC] PHP Fatal error:  Class 'Todstoychev\WebsafeColors\Wsc' not found in /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php on line 7
+[29-Mar-2016 19:46:34 UTC] PHP Stack trace:
+[29-Mar-2016 19:46:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php:0
+[29-Mar-2016 19:49:22 UTC] PHP Fatal error:  Class 'Wsc' not found in /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php on line 7
+[29-Mar-2016 19:49:22 UTC] PHP Stack trace:
+[29-Mar-2016 19:49:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php:0
+[29-Mar-2016 19:51:22 UTC] PHP Fatal error:  Class 'Wsc' not found in /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php on line 7
+[29-Mar-2016 19:51:22 UTC] PHP Stack trace:
+[29-Mar-2016 19:51:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php:0
+[29-Mar-2016 19:51:25 UTC] PHP Fatal error:  Class 'Wsc' not found in /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php on line 7
+[29-Mar-2016 19:51:25 UTC] PHP Stack trace:
+[29-Mar-2016 19:51:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php:0
+[29-Mar-2016 19:52:22 UTC] PHP Fatal error:  Class 'todstoychev\websafe' not found in /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php on line 5
+[29-Mar-2016 19:52:22 UTC] PHP Stack trace:
+[29-Mar-2016 19:52:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php:0
+[29-Mar-2016 19:52:46 UTC] PHP Fatal error:  Class 'todstoychev\WebsafeColors\Wsc' not found in /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php on line 5
+[29-Mar-2016 19:52:46 UTC] PHP Stack trace:
+[29-Mar-2016 19:52:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php:0
+[29-Mar-2016 19:53:02 UTC] PHP Fatal error:  Class 'todstoychev\WebsafeColors\src\Wsc' not found in /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php on line 5
+[29-Mar-2016 19:53:02 UTC] PHP Stack trace:
+[29-Mar-2016 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php:0
+[29-Mar-2016 19:53:05 UTC] PHP Fatal error:  Class 'todstoychev\WebsafeColors\src\Wsc' not found in /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php on line 5
+[29-Mar-2016 19:53:05 UTC] PHP Stack trace:
+[29-Mar-2016 19:53:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php:0
+[29-Mar-2016 19:53:39 UTC] PHP Fatal error:  Class 'todstoychev\WebsafeColors\Wsc' not found in /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php on line 5
+[29-Mar-2016 19:53:39 UTC] PHP Stack trace:
+[29-Mar-2016 19:53:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php:0
+[29-Mar-2016 19:54:34 UTC] PHP Fatal error:  Class 'Wsc' not found in /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php on line 5
+[29-Mar-2016 19:54:34 UTC] PHP Stack trace:
+[29-Mar-2016 19:54:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php:0
+[29-Mar-2016 19:57:01 UTC] PHP Fatal error:  Class 'todstoychev\WebsafeColors\Wsc' not found in /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php on line 5
+[29-Mar-2016 19:57:01 UTC] PHP Stack trace:
+[29-Mar-2016 19:57:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php:0
+[29-Mar-2016 20:03:16 UTC] PHP Fatal error:  Class 'todstoychev\WebsafeColors\Wsc' not found in /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php on line 5
+[29-Mar-2016 20:03:16 UTC] PHP Stack trace:
+[29-Mar-2016 20:03:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php:0
+[29-Mar-2016 20:05:10 UTC] PHP Fatal error:  Class 'todstoychev\WebsafeColors\Wsc' not found in /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php on line 5
+[29-Mar-2016 20:05:10 UTC] PHP Stack trace:
+[29-Mar-2016 20:05:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php:0
+[29-Mar-2016 20:05:43 UTC] PHP Fatal error:  Class 'todstoychev\websafe' not found in /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php on line 5
+[29-Mar-2016 20:05:43 UTC] PHP Stack trace:
+[29-Mar-2016 20:05:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php:0
+[29-Mar-2016 20:06:00 UTC] PHP Fatal error:  Class 'todstoychev\websafecolors\Wsc' not found in /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php on line 5
+[29-Mar-2016 20:06:00 UTC] PHP Stack trace:
+[29-Mar-2016 20:06:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php:0
+[29-Mar-2016 20:07:34 UTC] PHP Fatal error:  Class 'Wsc' not found in /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php on line 6
+[29-Mar-2016 20:07:34 UTC] PHP Stack trace:
+[29-Mar-2016 20:07:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php:0
+[29-Mar-2016 20:08:02 UTC] PHP Fatal error:  Class 'todstoychev\WebsafeColors\Wsc' not found in /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php on line 6
+[29-Mar-2016 20:08:02 UTC] PHP Stack trace:
+[29-Mar-2016 20:08:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php:0
+[29-Mar-2016 20:08:21 UTC] PHP Fatal error:  Class 'todstoychev\WebsafeColors\src\Wsc' not found in /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php on line 6
+[29-Mar-2016 20:08:21 UTC] PHP Stack trace:
+[29-Mar-2016 20:08:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php:0
+[29-Mar-2016 20:09:22 UTC] PHP Fatal error:  Class 'todstoychev\WebsafeColors\Wsc' not found in /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php on line 6
+[29-Mar-2016 20:09:22 UTC] PHP Stack trace:
+[29-Mar-2016 20:09:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php:0
+[29-Mar-2016 20:09:39 UTC] PHP Parse error:  syntax error, unexpected '-', expecting ',' or ';' in /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php on line 4
+[29-Mar-2016 20:12:28 UTC] PHP Parse error:  syntax error, unexpected '-', expecting ',' or ';' in /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php on line 4
+[29-Mar-2016 20:13:12 UTC] PHP Fatal error:  Class 'todstoychev\WebsafeColors\Wsc' not found in /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php on line 5
+[29-Mar-2016 20:13:12 UTC] PHP Stack trace:
+[29-Mar-2016 20:13:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php:0
+[29-Mar-2016 20:13:21 UTC] PHP Fatal error:  Class 'todstoychev\WebsafeColors\Wsc' not found in /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php on line 5
+[29-Mar-2016 20:13:21 UTC] PHP Stack trace:
+[29-Mar-2016 20:13:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php:0
+[29-Mar-2016 20:58:22 UTC] PHP Fatal error:  Call to undefined function Sunny() in /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php on line 7
+[29-Mar-2016 20:58:22 UTC] PHP Stack trace:
+[29-Mar-2016 20:58:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php:0
+[29-Mar-2016 20:59:08 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (03-29-16) at position 0 (0): Unexpected character' in /home/ubuntu/workspace/S16-CSCI242/test2/q8/vendor/nesbot/carbon/src/Carbon/Carbon.php:221
+Stack trace:
+#0 /home/ubuntu/workspace/S16-CSCI242/test2/q8/vendor/nesbot/carbon/src/Carbon/Carbon.php(221): DateTime->__construct('03-29-16', Object(DateTimeZone))
+#1 /home/ubuntu/workspace/S16-CSCI242/test2/q8/vendor/martindilling/sunny/src/Martindilling/Sunny/Sunny.php(69): Carbon\Carbon->__construct('03-29-16', 'Europe/Copenhag...')
+#2 /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php(7): Martindilling\Sunny\Sunny->__construct('03-29-16', 'Europe/Copenhag...')
+#3 {main}
+  thrown in /home/ubuntu/workspace/S16-CSCI242/test2/q8/vendor/nesbot/carbon/src/Carbon/Carbon.php on line 221
+[30-Mar-2016 00:35:06 UTC] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php on line 7
+[30-Mar-2016 00:35:06 UTC] PHP Stack trace:
+[30-Mar-2016 00:35:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php:0
+[30-Mar-2016 00:35:06 UTC] PHP   2. date() /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php:7
+[30-Mar-2016 00:35:21 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (0) at position 0 (0): Unexpected character' in /home/ubuntu/workspace/S16-CSCI242/test2/q8/vendor/nesbot/carbon/src/Carbon/Carbon.php:221
+Stack trace:
+#0 /home/ubuntu/workspace/S16-CSCI242/test2/q8/vendor/nesbot/carbon/src/Carbon/Carbon.php(221): DateTime->__construct('0', Object(DateTimeZone))
+#1 /home/ubuntu/workspace/S16-CSCI242/test2/q8/vendor/martindilling/sunny/src/Martindilling/Sunny/Sunny.php(69): Carbon\Carbon->__construct('0', 'Europe/Copenhag...')
+#2 /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php(7): Martindilling\Sunny\Sunny->__construct('0', 'Europe/Copenhag...')
+#3 {main}
+  thrown in /home/ubuntu/workspace/S16-CSCI242/test2/q8/vendor/nesbot/carbon/src/Carbon/Carbon.php on line 221
+[30-Mar-2016 00:35:36 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (03-30-16) at position 0 (0): Unexpected character' in /home/ubuntu/workspace/S16-CSCI242/test2/q8/vendor/nesbot/carbon/src/Carbon/Carbon.php:221
+Stack trace:
+#0 /home/ubuntu/workspace/S16-CSCI242/test2/q8/vendor/nesbot/carbon/src/Carbon/Carbon.php(221): DateTime->__construct('03-30-16', Object(DateTimeZone))
+#1 /home/ubuntu/workspace/S16-CSCI242/test2/q8/vendor/martindilling/sunny/src/Martindilling/Sunny/Sunny.php(69): Carbon\Carbon->__construct('03-30-16', 'Europe/Copenhag...')
+#2 /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php(7): Martindilling\Sunny\Sunny->__construct('03-30-16', 'Europe/Copenhag...')
+#3 {main}
+  thrown in /home/ubuntu/workspace/S16-CSCI242/test2/q8/vendor/nesbot/carbon/src/Carbon/Carbon.php on line 221
+[30-Mar-2016 00:35:40 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (03-30-16) at position 0 (0): Unexpected character' in /home/ubuntu/workspace/S16-CSCI242/test2/q8/vendor/nesbot/carbon/src/Carbon/Carbon.php:221
+Stack trace:
+#0 /home/ubuntu/workspace/S16-CSCI242/test2/q8/vendor/nesbot/carbon/src/Carbon/Carbon.php(221): DateTime->__construct('03-30-16', Object(DateTimeZone))
+#1 /home/ubuntu/workspace/S16-CSCI242/test2/q8/vendor/martindilling/sunny/src/Martindilling/Sunny/Sunny.php(69): Carbon\Carbon->__construct('03-30-16', 'Europe/Copenhag...')
+#2 /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php(7): Martindilling\Sunny\Sunny->__construct('03-30-16', 'Europe/Copenhag...')
+#3 {main}
+  thrown in /home/ubuntu/workspace/S16-CSCI242/test2/q8/vendor/nesbot/carbon/src/Carbon/Carbon.php on line 221
+[30-Mar-2016 00:39:09 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Unknown or bad timezone (U.S.A, South Carolina)' in /home/ubuntu/workspace/S16-CSCI242/test2/q8/vendor/nesbot/carbon/src/Carbon/Carbon.php:182
+Stack trace:
+#0 /home/ubuntu/workspace/S16-CSCI242/test2/q8/vendor/nesbot/carbon/src/Carbon/Carbon.php(221): Carbon\Carbon::safeCreateDateTimeZone('U.S.A, South Ca...')
+#1 /home/ubuntu/workspace/S16-CSCI242/test2/q8/vendor/martindilling/sunny/src/Martindilling/Sunny/Sunny.php(69): Carbon\Carbon->__construct('March 30, 2016,...', 'U.S.A, South Ca...')
+#2 /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php(7): Martindilling\Sunny\Sunny->__construct('March 30, 2016,...', 'U.S.A, South Ca...')
+#3 {main}
+  thrown in /home/ubuntu/workspace/S16-CSCI242/test2/q8/vendor/nesbot/carbon/src/Carbon/Carbon.php on line 182
+[30-Mar-2016 00:45:27 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Unknown or bad timezone (United States/South Carolina)' in /home/ubuntu/workspace/S16-CSCI242/test2/q8/vendor/nesbot/carbon/src/Carbon/Carbon.php:182
+Stack trace:
+#0 /home/ubuntu/workspace/S16-CSCI242/test2/q8/vendor/nesbot/carbon/src/Carbon/Carbon.php(221): Carbon\Carbon::safeCreateDateTimeZone('United States/S...')
+#1 /home/ubuntu/workspace/S16-CSCI242/test2/q8/vendor/martindilling/sunny/src/Martindilling/Sunny/Sunny.php(69): Carbon\Carbon->__construct('March 30, 2016,...', 'United States/S...')
+#2 /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php(7): Martindilling\Sunny\Sunny->__construct('March 30, 2016,...', 'United States/S...')
+#3 {main}
+  thrown in /home/ubuntu/workspace/S16-CSCI242/test2/q8/vendor/nesbot/carbon/src/Carbon/Carbon.php on line 182
+[30-Mar-2016 00:49:33 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Unknown or bad timezone (Eastern)' in /home/ubuntu/workspace/S16-CSCI242/test2/q8/vendor/nesbot/carbon/src/Carbon/Carbon.php:182
+Stack trace:
+#0 /home/ubuntu/workspace/S16-CSCI242/test2/q8/vendor/nesbot/carbon/src/Carbon/Carbon.php(221): Carbon\Carbon::safeCreateDateTimeZone('Eastern')
+#1 /home/ubuntu/workspace/S16-CSCI242/test2/q8/vendor/martindilling/sunny/src/Martindilling/Sunny/Sunny.php(69): Carbon\Carbon->__construct('March 30, 2016,...', 'Eastern')
+#2 /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php(7): Martindilling\Sunny\Sunny->__construct('March 30, 2016,...', 'Eastern')
+#3 {main}
+  thrown in /home/ubuntu/workspace/S16-CSCI242/test2/q8/vendor/nesbot/carbon/src/Carbon/Carbon.php on line 182
+[30-Mar-2016 00:52:47 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Unknown getter 'location'' in /home/ubuntu/workspace/S16-CSCI242/test2/q8/vendor/nesbot/carbon/src/Carbon/Carbon.php:527
+Stack trace:
+#0 /home/ubuntu/workspace/S16-CSCI242/test2/q8/vendor/martindilling/sunny/src/Martindilling/Sunny/Sunny.php(121): Carbon\Carbon->__get('location')
+#1 /home/ubuntu/workspace/S16-CSCI242/test2/q8/index.php(10): Martindilling\Sunny\Sunny->__get('location')
+#2 {main}
+  thrown in /home/ubuntu/workspace/S16-CSCI242/test2/q8/vendor/nesbot/carbon/src/Carbon/Carbon.php on line 527

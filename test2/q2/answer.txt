@@ -1,0 +1,10 @@
+What are namespaces?
+
+Namespaces are a way to organize or group classes together to avoid conflict with other classes with the same name.
+
+Why are namespaces used?
+
+Namespaces are used to avoid conflicts with other classes with the same name.
+Using namespaces allows you to group classes together just like you would with files inside a folder.
+Classes can be accessed using it's fully qualified name (the namespace assigned to the class) or by renaming it using "use qualified/name/Class' as NewClassName.
+This allows you to work with classes that other developers have created without having to modify conflicting class names.
