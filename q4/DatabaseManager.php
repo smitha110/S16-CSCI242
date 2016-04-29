@@ -1,22 +1,28 @@
 <?php
 
 class DatabaseManager {
-     private $db = NULL;
+     static private $_db = NULL;
 
-     public function __construct() {
+     private function __construct() {
           $conn = "My Connection";
           //imagine $conn contains a real db connection
-          $this->db = $conn;
+          $this->_db = $conn;
       }
 
       public function getDb()
       {
-           return $this->db;
+           if ( self::$_db == null)
+           {
+                self::$_db = new DatabaseManager();
+           }
+
+          return self::$_db;     
+           
       }
 
       public function query($query) {
           //I would normally do something with db
-          return $query;
+          return self::$_db = $query;
       }
 
 }
